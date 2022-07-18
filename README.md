@@ -1,2 +1,3 @@
 # tabatabotelho.github.io
-Currículo do Jornada Del
+Currículo do Jornada Dev
+
